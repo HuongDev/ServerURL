@@ -1,0 +1,24 @@
+{
+  packageAds [
+    {
+      icon httpsimages.wondershare.comfilmoraarticle-imagesenlight-app.jpg,
+      cover httpsimages.wondershare.comfilmoraarticle-imagesenlight-app.jpg,
+      appName NameApp,
+      description Usetoeditphoto,
+      package com.frmart.photo,
+      link ,
+      actionText gomarket,
+      type 
+    },
+    {
+      icon httpsimages.wondershare.comfilmoraarticle-imagesenlight-app.jpg,
+      cover httpsimages.wondershare.comfilmoraarticle-imagesenlight-app.jpg,
+      appName NameApp,
+      description Usetoeditphoto,
+      package com.frmart.photo,
+      link ,
+      actionText gomarket,
+      type 
+    }
+  ]
+}
