@@ -1,0 +1,24 @@
+{
+  "packageAds": [
+    {
+      "icon": "https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-android-material-design-128.png",
+      "cover": "https://images.wondershare.com/filmora/article-images/enlight-app.jpg",
+      "appName": "NameApp",
+      "description": "Usetoeditphoto",
+      "package": "com.frmart.photo",
+      "link": "http://play.google.com/store/apps/details?id=com.frmart.photo",
+      "actionText": "gomarket",
+      "type": ""
+    },
+    {
+      "icon": "https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-android-material-design-128.png",
+      "cover": "https://images.wondershare.com/filmora/article-images/enlight-app.jpg",
+      "appName": "NameApp",
+      "description": "Usetoeditphoto",
+      "package": "com.frmart.photo",
+      "link": "http://play.google.com/store/apps/details?id=com.frmart.photo",
+      "actionText": "gomarket",
+      "type": ""
+    }
+  ]
+}
